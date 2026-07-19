@@ -9,7 +9,7 @@ monitoring solution — from AS-IS/GAP analysis through BRD/FRD, SQL data model,
 ## Quick links
 - 📊 [Dashboard file](/dashboard)
 - 📋 [Business Requirements Document](https://github.com/vishalvenkateshofficial-hub/Working-Capital-Portfolio-Monitoring/blob/857f411b650703b6a57ba87217d52d1cdbf9a413/docs/9.%20Business%20Requirements%20Document.pdf)
-- 🔗 [Requirement Traceability Matrix](/docs/15.%20Requirement%20Traceability%20Matrix.pdf)
+- 🔗 [Requirement Traceability Matrix](https://github.com/vishalvenkateshofficial-hub/Working-Capital-Portfolio-Monitoring/blob/ad4c25b7ab0acec56aa254f18ccae3aa060f8e51/docs/15.%20Requirement%20Traceability%20Matrix.pdf)
 - 🗂️ [ERD & Data Model](/erd)
 - 🧾 [SQL queries](/sql)
 - 📁 [All 21 BA documents](/docs)
